@@ -1,0 +1,48 @@
+.logoimage{
+    width: 15%;
+    position: relative;
+    text-align: left;
+    position: absolute; top: 260px;z-index: 1;
+}
+
+.bar{
+    width: 125%;
+    background-color: deepskyblue ;
+}
+
+.subtitle{
+    position: relative;
+}
+
+.t1{
+    color: dimgray;
+
+}
+
+.blue{
+    color: deepskyblue;
+}
+
+.t2{
+    color: dimgray;
+}
+
+.marker{
+    background-color: yellow;
+}
+
+.final{
+    color: dimgray;
+}
+
+.r1{
+    background-color: deepskyblue;
+}
+
+.r2{
+    background-color: lightskyblue;
+}
+
+.r4{
+    background-color: deepskyblue;
+}
